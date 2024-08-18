@@ -3,13 +3,6 @@
 ## Lab Mission
 Create security groups to govern ICMP and RDP access to AWS resources.
 
-## Lab Duration
-20–40 minutes
-
-## Requirements
-- AWS account
-- Basic knowledge of AWS
-- Working knowledge of the RDP tool
 
 ## Resources
 - **Environment & Tools**
